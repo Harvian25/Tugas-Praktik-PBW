@@ -1,0 +1,50 @@
+[
+    {
+        "Maskapai": "garuda",
+        "Asal_penerbangan": "Soekarno-Hatta (CGK)",
+        "tujuan_penerbangan": "Ngurai Rai (DPS)",
+        "Harga_tiket": "1500000",
+        "Pajak": 130000,
+        "Total_harga": 1630000
+    },
+    {
+        "Maskapai": "kungkingkang",
+        "Asal_penerbangan": "Juanda (SUB)",
+        "tujuan_penerbangan": "Sultan Iskandar Muda (BTJ)",
+        "Harga_tiket": "60000000",
+        "Pajak": 110000,
+        "Total_harga": 60110000
+    },
+    {
+        "Maskapai": "kungkingkang",
+        "Asal_penerbangan": "Juanda (SUB)",
+        "tujuan_penerbangan": "Sultan Iskandar Muda (BTJ)",
+        "Harga_tiket": "60000000",
+        "Pajak": 110000,
+        "Total_harga": 60110000
+    },
+    {
+        "Maskapai": "kungkingkang",
+        "Asal_penerbangan": "Juanda (SUB)",
+        "tujuan_penerbangan": "Sultan Iskandar Muda (BTJ)",
+        "Harga_tiket": "60000000",
+        "Pajak": 110000,
+        "Total_harga": 60110000
+    },
+    {
+        "Maskapai": "kungkingkang",
+        "Asal_penerbangan": "Juanda (SUB)",
+        "tujuan_penerbangan": "Sultan Iskandar Muda (BTJ)",
+        "Harga_tiket": "60000000",
+        "Pajak": 110000,
+        "Total_harga": 60110000
+    },
+    {
+        "Maskapai": "kungkingkang",
+        "Asal_penerbangan": "Pilih Bandara",
+        "tujuan_penerbangan": "Pilih Bandara",
+        "Harga_tiket": "2121",
+        "Pajak": 0,
+        "Total_harga": 2121
+    }
+]
