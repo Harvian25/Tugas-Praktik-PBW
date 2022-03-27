@@ -134,11 +134,11 @@ function getPajakTujuan($bandara_tujuan, $tujuan)
 
         ?>
          <div class="row">
-            <div class="col-mg-12 text-center">
+            <div class="col-md-12 text-center">
                 <h1>Data Rute Tersedia</h1>
             </div>
             <div class="row">
-            <div class="col-mg-12 text-left">
+            <div class="col-md-12 text-left">
         <div class="row">
             <table class="table">
                 <thead>
